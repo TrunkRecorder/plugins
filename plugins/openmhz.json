@@ -1,0 +1,31 @@
+{
+  "id": "openmhz",
+  "name": "OpenMHz",
+  "description": "Uploads recorded calls to OpenMHz.",
+  "repository": "https://github.com/TrunkRecorder/trunk-plugin-openmhz",
+  "homepage": "https://openmhz.com",
+  "license": "GPL-3.0-or-later",
+  "tier": "official",
+  "version": "0.1.1",
+  "api": 1,
+  "tag": "v0.1.1",
+  "commit": "669ea2d10b193728b82276ec9ed77c81118f164f",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.1/openmhz-0.1.1-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "74c54539dbdff742ac0a498ac443aff5509a5c7c7fb769c90f09043ab83fe60a"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.1/openmhz-0.1.1-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "96cbf7d4f2df168ff4682d2ae7b2a76eacbbe477ef8d14cb0c1484f9bde1307c"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.1/openmhz-0.1.1-universal-apple-darwin.tar.gz",
+      "sha256": "502985116ed245cb959b57f6812e7cab5df51153030969ebaa901c01965a53a6"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.1/openmhz-0.1.1-x86_64-pc-windows-msvc.zip",
+      "sha256": "bab2a25948c8b755eb46d018ad773ac58bfbe6fd494eca01ff0a73b514848a4b"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "rdioscanner",
+  "name": "Rdio Scanner",
+  "description": "Uploads recorded calls to an Rdio Scanner server.",
+  "repository": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner",
+  "homepage": "https://github.com/chuot/rdio-scanner",
+  "license": "GPL-3.0-or-later",
+  "tier": "official",
+  "version": "0.1.0",
+  "api": 1,
+  "tag": "v0.1.0",
+  "commit": "79ba994bfca5af6f2bf7b1e9110304c1b1976f9f",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.0/rdioscanner-0.1.0-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "03b1b720a7fbb9e7097e445b4dd8ec83a55504e5c75e0978fd2f599add6b3ae1"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.0/rdioscanner-0.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "de9ea45165e9d01a431419a2df54dae175a1a8054d186bdf566446f5500870bf"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.0/rdioscanner-0.1.0-universal-apple-darwin.tar.gz",
+      "sha256": "b39cbb4d11e48d19e8dd82cdb07ebe80b2c11847e834d5f69ca9f6a31327b2f4"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.0/rdioscanner-0.1.0-x86_64-pc-windows-msvc.zip",
+      "sha256": "3a7539dc8c9cb40a19a1ba64b2f7e42143cd8c232042c2fb13bed4d724fa0482"
+    }
+  }
+}

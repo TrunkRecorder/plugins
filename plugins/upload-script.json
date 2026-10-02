@@ -1,0 +1,30 @@
+{
+  "id": "upload-script",
+  "name": "Upload script",
+  "description": "Runs a script of yours on each recorded call, as Trunk Recorder's uploadScript does.",
+  "repository": "https://github.com/TrunkRecorder/trunk-plugin-upload-script",
+  "license": "GPL-3.0-or-later",
+  "tier": "official",
+  "version": "0.1.0",
+  "api": 1,
+  "tag": "v0.1.0",
+  "commit": "fe4fc083398352f491b53be59fdf14f14c6e51a8",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.0/upload-script-0.1.0-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "3d9ccb1b9b6dc3ad8dc78d06aa7d65f3bb250ba6eea3d1d0584f51f2df98cf60"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.0/upload-script-0.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "04b8a48d22b59ca2d0b465703588d10e4abd0b62fe8f3c290a541e72b0f16901"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.0/upload-script-0.1.0-universal-apple-darwin.tar.gz",
+      "sha256": "cb7445d667b5dc5ef96e33b423e2a51f4edc3afff5276bcc397f8c751dec00ec"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.0/upload-script-0.1.0-x86_64-pc-windows-msvc.zip",
+      "sha256": "e8302c4527363d31654177cc2acd25371c9e9de098e8774ed3c5aa124445b6f3"
+    }
+  }
+}
