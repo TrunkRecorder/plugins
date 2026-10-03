@@ -9,23 +9,23 @@
   "version": "0.1.1",
   "api": 1,
   "tag": "v0.1.1",
-  "commit": "c52a0db414f219201e9de7c3666c0a22c1e68bbf",
+  "commit": "a65b43a698b32dcd53e2ca55efb07dcd0c532837",
   "assets": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.1/rdioscanner-0.1.1-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "f01006d4c67dbf6ede9a3eb6c89db17c7b131708f27c3c7c409ee27a43ead4fb"
+      "sha256": "d08e04698f1c55515b236c9a8c21300b5d303faf724070de61fefa07b0661e16"
     },
     "aarch64-unknown-linux-gnu": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.1/rdioscanner-0.1.1-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "a048677a864d898fa2dbec9d2173360cd105686b467e916913c069ec1eb794f7"
+      "sha256": "96819b30b671a5e11b2157659f53249025e56406ec3b9cdb7ededae404a0e06a"
     },
     "universal-apple-darwin": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.1/rdioscanner-0.1.1-universal-apple-darwin.tar.gz",
-      "sha256": "a400ba98b28105261ff1194817d563ff6570a30001e944b0acc1574e99dc6794"
+      "sha256": "d83c652d65b29557e5df29d299eec7e59a154b8ff7c5d8e7fdc75e448ff97c05"
     },
     "x86_64-pc-windows-msvc": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.1/rdioscanner-0.1.1-x86_64-pc-windows-msvc.zip",
-      "sha256": "0e1befd769e275699c865c01c776bf17895c55b3f4ea2b9dafaebc02d6d4b8cc"
+      "sha256": "c294475e42b132c050b5bb4e572d954a81584eb5051b68db8b8e05a8c8c0eda7"
     }
   }
 }

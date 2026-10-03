@@ -9,23 +9,23 @@
   "version": "0.1.1",
   "api": 1,
   "tag": "v0.1.1",
-  "commit": "39ab014fb2bea40e58b61e2beb3a31fb9ed0614b",
+  "commit": "9104b3688ca0e4d9996ae7749853a04d07be669b",
   "assets": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.1/broadcastify-0.1.1-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "b31497a8dc913f9f59f665d2df5d98a1e6bb6bfcf8e2b52ad33a04b0683e55e6"
+      "sha256": "5cf79d1880a93a43f83245eebb5ce5f5e5a97db144d9ab0456056b00ff6a9a0c"
     },
     "aarch64-unknown-linux-gnu": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.1/broadcastify-0.1.1-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "9e5bc185a9b1bf9f2d40ad12c3ec4b920bfe227ba1b21cf4699a72414a1fe4f6"
+      "sha256": "6766eaa2b90fc5b175c837c4f02a1a82128ab7180037f29087d5792af5303354"
     },
     "universal-apple-darwin": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.1/broadcastify-0.1.1-universal-apple-darwin.tar.gz",
-      "sha256": "e0e44dec4753c22c5c2a4ba549cddffe4755c0b9a02c677f05cd059dd77458d0"
+      "sha256": "85fc668713753061b623d6b27a5cbc247f056e33be950738481696a6123fd51d"
     },
     "x86_64-pc-windows-msvc": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.1/broadcastify-0.1.1-x86_64-pc-windows-msvc.zip",
-      "sha256": "f19b52c0d685ee9db15f766f35cff30272aa5ecd713e279bd71c6c6c7dffb824"
+      "sha256": "debccc8d976d95f49824889c509eb0667ed39ff5051d9e79345f3421b1acfaee"
     }
   }
 }
