@@ -5,26 +5,26 @@
   "repository": "https://github.com/TrunkRecorder/trunk-plugin-simplestream",
   "license": "GPL-3.0-or-later",
   "tier": "official",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "api": 1,
-  "tag": "v0.1.1",
-  "commit": "90cc3eab61f29bad8353dbabf18e83f58a0e600a",
+  "tag": "v0.1.2",
+  "commit": "a772af1570c6ef38fbde5e6186a090c90e202720",
   "assets": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.1/simplestream-0.1.1-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "c9861982ebdc755ff06a781ff5c3df86cd8b60a333c4b40955950bf32e5fbe30"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.2/simplestream-0.1.2-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "880be53b6efad0678924665d00f721c9c78b704b88eb2581c528f605b6b09b26"
     },
     "aarch64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.1/simplestream-0.1.1-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "8307b72bdddfb2f397790954f0790a9b92adbaff461d081f0860efd92764d257"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.2/simplestream-0.1.2-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "67d3c888fe297c7406079a8c3b755af5a4259255dbfc7b8f91a7ca8e95b60caa"
     },
     "universal-apple-darwin": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.1/simplestream-0.1.1-universal-apple-darwin.tar.gz",
-      "sha256": "a4cac2f2b700cf5e4d52a7ae5631430a4e34da01d3197da785219477327a630c"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.2/simplestream-0.1.2-universal-apple-darwin.tar.gz",
+      "sha256": "a5c64cf19f220dc2924e6ac123d450cc152717f2f49db1d7c6a95190d362be0a"
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.1/simplestream-0.1.1-x86_64-pc-windows-msvc.zip",
-      "sha256": "1314ef12049dc7fafb92395a4b3e10c696ea0da5bc8daf4c4e595820161391dd"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.2/simplestream-0.1.2-x86_64-pc-windows-msvc.zip",
+      "sha256": "10f2f974616c44327915967c3cd3939672e70e04c6c08a43770faf631093dd1a"
     }
   }
 }
