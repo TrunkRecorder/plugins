@@ -8,23 +8,23 @@
   "version": "0.1.1",
   "api": 1,
   "tag": "v0.1.1",
-  "commit": "ddac8c550eaa74a68a02b212baabb804eb8206a8",
+  "commit": "90cc3eab61f29bad8353dbabf18e83f58a0e600a",
   "assets": {
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.1/simplestream-0.1.1-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "476d2d3980824768ac58a767a87a0864a2b94a1b1e6ceb3bea3c8ba48d49018e"
+      "sha256": "c9861982ebdc755ff06a781ff5c3df86cd8b60a333c4b40955950bf32e5fbe30"
     },
     "aarch64-unknown-linux-gnu": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.1/simplestream-0.1.1-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "d897e1e562f5f9905f5b9e3e7cdba1740e21f8d63936524521e648369041097e"
+      "sha256": "8307b72bdddfb2f397790954f0790a9b92adbaff461d081f0860efd92764d257"
     },
     "universal-apple-darwin": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.1/simplestream-0.1.1-universal-apple-darwin.tar.gz",
-      "sha256": "4e197c775a81b2a01459bdce67ab47fba5bf6a62cf191345527d1b604245ce84"
+      "sha256": "a4cac2f2b700cf5e4d52a7ae5631430a4e34da01d3197da785219477327a630c"
     },
     "x86_64-pc-windows-msvc": {
       "url": "https://github.com/TrunkRecorder/trunk-plugin-simplestream/releases/download/v0.1.1/simplestream-0.1.1-x86_64-pc-windows-msvc.zip",
-      "sha256": "997046f14c5dd30f90be6e3dc01c668e3f44477d28932ddf35afb42f1a9836d0"
+      "sha256": "1314ef12049dc7fafb92395a4b3e10c696ea0da5bc8daf4c4e595820161391dd"
     }
   }
 }
