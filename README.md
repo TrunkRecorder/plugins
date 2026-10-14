@@ -13,6 +13,7 @@ users get is what was reviewed.
 | [Rdio Scanner](https://github.com/TrunkRecorder/trunk-plugin-rdioscanner) | official | Uploads recorded calls to an Rdio Scanner server |
 | [simplestream](https://github.com/TrunkRecorder/trunk-plugin-simplestream) | official | Streams the audio of calls as they're recorded, over UDP or TCP |
 | [Upload script](https://github.com/TrunkRecorder/trunk-plugin-upload-script) | official | Runs a script of yours on each recorded call, as Trunk Recorder's uploadScript does |
+| [MQTT](https://github.com/TrunkRecorder/trunk-plugin-mqtt) | official | Publishes calls, unit activity and system status to an MQTT broker, in the format of Trunk Recorder's MQTT Status plugin |
 
 To write a plugin, start from the
 [plugin template](https://github.com/TrunkRecorder/trunk-plugin-template).
