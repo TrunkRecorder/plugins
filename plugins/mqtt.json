@@ -1,0 +1,30 @@
+{
+  "id": "mqtt",
+  "name": "MQTT statistics",
+  "description": "Publishes system status and call statistics over MQTT, for Home Assistant, Telegraf and Grafana.",
+  "repository": "https://github.com/connorjfarrell/trunk-plugin-mqtt",
+  "license": "MIT",
+  "tier": "community",
+  "version": "0.1.0",
+  "api": 1,
+  "tag": "v0.1.0",
+  "commit": "f278a6d1ac06d92d552b41f9905c6e6bcbd91ab5",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-mqtt/releases/download/v0.1.0/mqtt-0.1.0-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "58bc0520afb0ca6c18e81a4cebe5e04dab52c2efd9622dc2578a7e663bb6fb1e"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-mqtt/releases/download/v0.1.0/mqtt-0.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "15d8c0a329b9e1a0706107a400cf88b629c64760d986a44f028d5e1d7177a81b"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-mqtt/releases/download/v0.1.0/mqtt-0.1.0-universal-apple-darwin.tar.gz",
+      "sha256": "1a9c8f4a3b7d7994219116e1b45665fa7d74d1a01d8c28403ddffc476a2f2a0a"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-mqtt/releases/download/v0.1.0/mqtt-0.1.0-x86_64-pc-windows-msvc.zip",
+      "sha256": "01ab8c1ee61d0246110fd2c1d6a48eaa315ec3230b168287a29f589ffa7693c0"
+    }
+  }
+}
