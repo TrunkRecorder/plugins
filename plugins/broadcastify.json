@@ -6,26 +6,26 @@
   "homepage": "https://www.broadcastify.com/calls/",
   "license": "GPL-3.0-or-later",
   "tier": "official",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "api": 1,
-  "tag": "v0.1.5",
-  "commit": "b08fdeda2fb9a4db74a183d15a9037a971799aee",
+  "tag": "v0.1.6",
+  "commit": "9e5623f16f0639d2315d929a33cbda7401ebf22c",
   "assets": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.5/broadcastify-0.1.5-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "7870530c0c33133cf9974abf63e4ead388b0723b71d54da3c95b0ac7b08c096f"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.6/broadcastify-0.1.6-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "98e55c9710c56270153d2a53970e0828dd88f28a3c5800b6a266db0731c7c502"
     },
     "aarch64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.5/broadcastify-0.1.5-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "dbd870a79e91498820d6d6d7588f9b7392f0bb675823191a7272d8fd61653de4"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.6/broadcastify-0.1.6-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "e3998c6d2ab7bce0b718850ae0cbec93ae28944b6268528e7f97a54bde2499ae"
     },
     "universal-apple-darwin": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.5/broadcastify-0.1.5-universal-apple-darwin.tar.gz",
-      "sha256": "b7cc10f87448cb8a0172808161355a09ba74470c9ec706ce8a05476a2add2816"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.6/broadcastify-0.1.6-universal-apple-darwin.tar.gz",
+      "sha256": "b0978d167f130302d1359faac73d62cbc2defbd503298174795669cb8964432e"
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.5/broadcastify-0.1.5-x86_64-pc-windows-msvc.zip",
-      "sha256": "a4132ffc2f25bc0e0776f223a3089a2631a40d785d8b44981798de4a91a9cedf"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-broadcastify/releases/download/v0.1.6/broadcastify-0.1.6-x86_64-pc-windows-msvc.zip",
+      "sha256": "de3dbbd1f6288ad6254d4d6f2eb147f37b75f642e7c6997f007ed9a7a2b5c9cb"
     }
   }
 }
