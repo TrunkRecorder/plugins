@@ -5,26 +5,26 @@
   "repository": "https://github.com/TrunkRecorder/trunk-plugin-mqtt",
   "license": "GPL-3.0-or-later",
   "tier": "official",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "api": 1,
-  "tag": "v0.1.6",
-  "commit": "cff4ff37a99ae075ba5e1e3e0992f1defe94932e",
+  "tag": "v0.1.7",
+  "commit": "d7c5659cbcd1e0e7bf1f862caf87e225dc760493",
   "assets": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-mqtt/releases/download/v0.1.6/mqtt-0.1.6-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "59aad39477fd814de5c52075a59daa1c86a2a1e405a3c631d7fd5274fe6a811a"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-mqtt/releases/download/v0.1.7/mqtt-0.1.7-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "c26a21006a7c2d8ed6b62491ded4ed5e2141e2706a24c4c2277c64d5405cd0a7"
     },
     "aarch64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-mqtt/releases/download/v0.1.6/mqtt-0.1.6-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "8ba22e331bc3f7097257c3196d3d78b74daf9a042b5fb483bb05ab9421f7b1f0"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-mqtt/releases/download/v0.1.7/mqtt-0.1.7-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "50a2d0c865fee5f338d2ca80b49361097a6b61acaecd33fb3a0818d39577f4db"
     },
     "universal-apple-darwin": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-mqtt/releases/download/v0.1.6/mqtt-0.1.6-universal-apple-darwin.tar.gz",
-      "sha256": "a3ae0006f58434e47da7fff9467881047dc7856dac31724e60d1c6bd87899cd8"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-mqtt/releases/download/v0.1.7/mqtt-0.1.7-universal-apple-darwin.tar.gz",
+      "sha256": "af203b73c351a49f6eb00a809027434ff4b6bbc3bee6dc058553eee57f8e2d99"
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-mqtt/releases/download/v0.1.6/mqtt-0.1.6-x86_64-pc-windows-msvc.zip",
-      "sha256": "4eba3cb5e8d843de76e8284927a08ffc123bf20173a80ac4a27d7cc320f1c153"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-mqtt/releases/download/v0.1.7/mqtt-0.1.7-x86_64-pc-windows-msvc.zip",
+      "sha256": "2ffc3ee975504dffd32844d275b52092bbc490ef652690f2f5cf19706e70c325"
     }
   }
 }

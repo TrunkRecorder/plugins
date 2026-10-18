@@ -5,26 +5,26 @@
   "repository": "https://github.com/TrunkRecorder/trunk-plugin-upload-script",
   "license": "GPL-3.0-or-later",
   "tier": "official",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "api": 1,
-  "tag": "v0.1.3",
-  "commit": "2d81a500f887d3e4b2a64a3a6665d8e4beab1b5d",
+  "tag": "v0.1.4",
+  "commit": "3bb111bbd56c8fc881e1306de34aec81b5f9426d",
   "assets": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.3/upload-script-0.1.3-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "a0254e6e9082dffde589ff1aae211450d221dfc375ec017fed0324d447faff2b"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.4/upload-script-0.1.4-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "568b01afe6e3653d8ae4516491621accc35a3b1be56c4b8ed4f7e9d65eb91858"
     },
     "aarch64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.3/upload-script-0.1.3-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "194562aca900076fb4db6c7034a2d5dd8b2df527381f0cebbe7c33f108ea112a"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.4/upload-script-0.1.4-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "86b8a0cff9872b1aaa31c3494b05eb8d2311dc7ba7fd79a301a452373f612a47"
     },
     "universal-apple-darwin": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.3/upload-script-0.1.3-universal-apple-darwin.tar.gz",
-      "sha256": "b7c833e29c1efc466f50ebcd7abb1f66ed925fdd267fbe425fd64af57dc292e8"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.4/upload-script-0.1.4-universal-apple-darwin.tar.gz",
+      "sha256": "dec3ece03f105798db3b0887d3d8ecc54e236298b5234a5e5a8a848fccba4e5a"
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.3/upload-script-0.1.3-x86_64-pc-windows-msvc.zip",
-      "sha256": "2b923a259651d1f07ebd75d0147fbd93632794521fd8ae8e9749d0a2834ba8bb"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-upload-script/releases/download/v0.1.4/upload-script-0.1.4-x86_64-pc-windows-msvc.zip",
+      "sha256": "8c2b90297fb1e2718dbd92847bc263a6bc73c99204a3fca440b1585e25ee66df"
     }
   }
 }

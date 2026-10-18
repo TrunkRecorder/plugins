@@ -6,26 +6,26 @@
   "homepage": "https://openmhz.com",
   "license": "GPL-3.0-or-later",
   "tier": "official",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "api": 1,
-  "tag": "v0.1.5",
-  "commit": "37a47677e9f3c96fe6bfb0d181e0ef8f565ce746",
+  "tag": "v0.1.6",
+  "commit": "7e872bced168f5576a22ef3fba339861581dc048",
   "assets": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.5/openmhz-0.1.5-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "0f183249769268e0167ffee0ecaaa915d5299066f2d9b8a9b420f05141d51bba"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.6/openmhz-0.1.6-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "15beaa0295a9c23617accb2d34942d7776b48f362931fcc8dd9008b1013d58c8"
     },
     "aarch64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.5/openmhz-0.1.5-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "19fad457279e0cc49a2029727449c9ce8e9cd6ff7be551f0c8cafbd3144153df"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.6/openmhz-0.1.6-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "0b8b85efbd78007a4987ce844bf7fff29f5137c430036e0a2f619fc172753e56"
     },
     "universal-apple-darwin": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.5/openmhz-0.1.5-universal-apple-darwin.tar.gz",
-      "sha256": "bf775332bafcbb718593dcc5ffed2ecce2166b26a7f5fd95058f2e5943209d4a"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.6/openmhz-0.1.6-universal-apple-darwin.tar.gz",
+      "sha256": "95c44fae681f256fd7c6d1f58fb9afd556f22de8061bfea9d057fca49b74da61"
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.5/openmhz-0.1.5-x86_64-pc-windows-msvc.zip",
-      "sha256": "456dccb70c04d8d4b88698e6422cc587c8ab513499f9258cf59bb2ad755ee3ac"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-openmhz/releases/download/v0.1.6/openmhz-0.1.6-x86_64-pc-windows-msvc.zip",
+      "sha256": "b408dddadc4411e4d7b4676ed32d9e00c286d58882f9c1c152f36ca069cbd04f"
     }
   }
 }
