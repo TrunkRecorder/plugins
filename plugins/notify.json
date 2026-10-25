@@ -1,0 +1,30 @@
+{
+  "id": "notify",
+  "name": "Notifications",
+  "description": "Notifications: rules over what the recorder hears (signals, tones, emergencies, new talkgroups and radios), sent to webhooks (Discord, Slack, ntfy, JSON) and commands.",
+  "repository": "https://github.com/TrunkRecorder/trunk-plugin-notify",
+  "license": "GPL-3.0-or-later",
+  "tier": "official",
+  "version": "0.2.1",
+  "api": 1,
+  "tag": "v0.2.1",
+  "commit": "d28db17cf0e0c6f474f83a9bc92606979a1684e8",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.1/notify-0.2.1-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "56e835313755487082d1717ee24f68e6bff24f90915c2d220a173a9aa0c4c584"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.1/notify-0.2.1-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "351569eba0fd832ebdf796657d031102bc130622820701e6ffa0cae5ff1c1a19"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.1/notify-0.2.1-universal-apple-darwin.tar.gz",
+      "sha256": "6ca8286bdc2a25b2f94f1eb638b72276d4437434f61327d80524f88d1d168bf6"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.1/notify-0.2.1-x86_64-pc-windows-msvc.zip",
+      "sha256": "e8b5fb2bacb93d667a9e2a5c4d433c9bd0e77987dfb9efd6b19ca71b055eec09"
+    }
+  }
+}

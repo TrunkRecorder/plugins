@@ -45,7 +45,7 @@ REQUIRED_TARGET = "x86_64-unknown-linux-gnu"
 TIERS = {"official", "community"}
 # Only plugins in this GitHub organization can be official.
 OFFICIAL_OWNER = "TrunkRecorder"
-TOPICS = {"call.start", "call.end", "call.concluded", "unit", "audio", "status"}
+TOPICS = {"call.start", "call.end", "call.concluded", "unit", "audio", "status", "tone_pattern"}
 FORMATS = {"m4a"}
 
 # An entry's fields, in the order they're written. homepage is optional.
