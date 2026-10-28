@@ -185,6 +185,36 @@
       }
     },
     {
+      "id": "retention",
+      "name": "Retention",
+      "description": "Deletes the oldest calls from the recordings folder past an age, a size or a share of the disk.",
+      "repository": "https://github.com/connorjfarrell/trunk-plugin-retention",
+      "license": "MIT",
+      "tier": "community",
+      "version": "0.1.0",
+      "api": 1,
+      "tag": "v0.1.0",
+      "commit": "ece7ad95cbe040b12db8d804d4f4f9e7edd04a01",
+      "assets": {
+        "x86_64-unknown-linux-gnu": {
+          "url": "https://github.com/connorjfarrell/trunk-plugin-retention/releases/download/v0.1.0/retention-0.1.0-x86_64-unknown-linux-gnu.tar.gz",
+          "sha256": "f088a8651b3730cfeaa5091f9bea40486fba88f1d8249d48295931f31b0cc618"
+        },
+        "aarch64-unknown-linux-gnu": {
+          "url": "https://github.com/connorjfarrell/trunk-plugin-retention/releases/download/v0.1.0/retention-0.1.0-aarch64-unknown-linux-gnu.tar.gz",
+          "sha256": "3ec62a2b371f1d89c493b4d23f6f961bb08665a6c370dadd0fb12616a44766f4"
+        },
+        "universal-apple-darwin": {
+          "url": "https://github.com/connorjfarrell/trunk-plugin-retention/releases/download/v0.1.0/retention-0.1.0-universal-apple-darwin.tar.gz",
+          "sha256": "eb96c6d8147453533d9c7b0a62baa53d6daa38d3f82f6b480a3e8276f09cf5d6"
+        },
+        "x86_64-pc-windows-msvc": {
+          "url": "https://github.com/connorjfarrell/trunk-plugin-retention/releases/download/v0.1.0/retention-0.1.0-x86_64-pc-windows-msvc.zip",
+          "sha256": "d0ec43f004b152bdf4a1f7d1da492f2606839a413508806825c2e036c6960109"
+        }
+      }
+    },
+    {
       "id": "simplestream",
       "name": "simplestream",
       "description": "Streams the audio of calls as they're recorded to other programs, over UDP or TCP.",
