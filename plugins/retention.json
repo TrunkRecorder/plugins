@@ -1,0 +1,30 @@
+{
+  "id": "retention",
+  "name": "Retention",
+  "description": "Deletes the oldest calls from the recordings folder past an age, a size or a share of the disk.",
+  "repository": "https://github.com/connorjfarrell/trunk-plugin-retention",
+  "license": "MIT",
+  "tier": "community",
+  "version": "0.1.0",
+  "api": 1,
+  "tag": "v0.1.0",
+  "commit": "ccbc1d995aa7b6757d07b18212921d9c1b454294",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-retention/releases/download/v0.1.0/retention-0.1.0-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "44a0a252578135303e00aa4b58f359416900395d009a49786ae4310bdd69fd44"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-retention/releases/download/v0.1.0/retention-0.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "05d242296dd5e0aa4e51fad65ca9b67720803ef554811625c6eaac0a63b540de"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-retention/releases/download/v0.1.0/retention-0.1.0-universal-apple-darwin.tar.gz",
+      "sha256": "13876d1c8bfab9be7a4781f6c9820245709a29d39610e732714e237792d0aaa1"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-retention/releases/download/v0.1.0/retention-0.1.0-x86_64-pc-windows-msvc.zip",
+      "sha256": "7b3776bc72335ebcdcb82ae8be98f42a9b00676f6339644ca2307a6f21ed036d"
+    }
+  }
+}
