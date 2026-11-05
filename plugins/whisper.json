@@ -1,0 +1,30 @@
+{
+  "id": "whisper",
+  "name": "Whisper",
+  "description": "Transcribes recorded calls with a Whisper server, choosing the model by system and talkgroup.",
+  "repository": "https://github.com/connorjfarrell/trunk-plugin-whisper",
+  "license": "MIT",
+  "tier": "community",
+  "version": "0.1.0",
+  "api": 1,
+  "tag": "v0.1.0",
+  "commit": "377939b3ab6d3f1f6634cacff4aba6940d46acc1",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-whisper/releases/download/v0.1.0/whisper-0.1.0-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "711b47690554134e6a67840ae19138ee8a9c25282e17b76d183e9eaf296776f6"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-whisper/releases/download/v0.1.0/whisper-0.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "034c9f8a39ffe07f6a2d986bb6fc38a54ef4353c7908df3d1adb88b8db5ab687"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-whisper/releases/download/v0.1.0/whisper-0.1.0-universal-apple-darwin.tar.gz",
+      "sha256": "2db372923ecbbbefcfdd06d0d73ca702e2f95c7ad777067a38ceac37b56e4a3e"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/connorjfarrell/trunk-plugin-whisper/releases/download/v0.1.0/whisper-0.1.0-x86_64-pc-windows-msvc.zip",
+      "sha256": "d5d0212969871c4be04e78a02876b25bc4d27bf7ed7ab7910f879537f888e9d9"
+    }
+  }
+}
