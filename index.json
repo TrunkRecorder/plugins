@@ -245,6 +245,36 @@
       }
     },
     {
+      "id": "unit-script",
+      "name": "Unit script",
+      "description": "Runs a Trunk Recorder-style unitScript for radio registrations, affiliations, locations and calls.",
+      "repository": "https://github.com/kb2ear/trunk-plugin-unit-script",
+      "license": "MIT",
+      "tier": "community",
+      "version": "0.1.1",
+      "api": 1,
+      "tag": "v0.1.1",
+      "commit": "4dccc5d3dbce951864d67b7011ffa57b5ed740a6",
+      "assets": {
+        "x86_64-unknown-linux-gnu": {
+          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.1/unit-script-0.1.1-x86_64-unknown-linux-gnu.tar.gz",
+          "sha256": "40e88ba590eb93eb69940de87a3b00f5fc5f0ec808502be7d8c158a7a4e3e503"
+        },
+        "aarch64-unknown-linux-gnu": {
+          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.1/unit-script-0.1.1-aarch64-unknown-linux-gnu.tar.gz",
+          "sha256": "e2d424b0961ecb1c97c9d1856066af7ca92a5ad6b7cf4464d4721428ca4be427"
+        },
+        "universal-apple-darwin": {
+          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.1/unit-script-0.1.1-universal-apple-darwin.tar.gz",
+          "sha256": "3191a61ed34243f6a3079b55801abbd5fac617f64d7758d2646f12bc78ab5e7c"
+        },
+        "x86_64-pc-windows-msvc": {
+          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.1/unit-script-0.1.1-x86_64-pc-windows-msvc.zip",
+          "sha256": "6d0cc051a8170f86b6f4f3e9d615f4071d7632f9c1d17ab28ad736d35cd13e00"
+        }
+      }
+    },
+    {
       "id": "upload-script",
       "name": "Upload script",
       "description": "Runs a script of yours on each recorded call, as Trunk Recorder's uploadScript does.",
