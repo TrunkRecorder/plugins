@@ -99,26 +99,26 @@
       "repository": "https://github.com/TrunkRecorder/trunk-plugin-notify",
       "license": "GPL-3.0-or-later",
       "tier": "official",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "api": 1,
-      "tag": "v0.2.1",
-      "commit": "d28db17cf0e0c6f474f83a9bc92606979a1684e8",
+      "tag": "v0.2.2",
+      "commit": "8aef3a77e442f130f0788de9a80f62256f5cfb9b",
       "assets": {
         "x86_64-unknown-linux-gnu": {
-          "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.1/notify-0.2.1-x86_64-unknown-linux-gnu.tar.gz",
-          "sha256": "56e835313755487082d1717ee24f68e6bff24f90915c2d220a173a9aa0c4c584"
+          "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.2/notify-0.2.2-x86_64-unknown-linux-gnu.tar.gz",
+          "sha256": "bfe14a0ed055a853744493a653fb24d2ed0a83ce6fd46089a34419314910c240"
         },
         "aarch64-unknown-linux-gnu": {
-          "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.1/notify-0.2.1-aarch64-unknown-linux-gnu.tar.gz",
-          "sha256": "351569eba0fd832ebdf796657d031102bc130622820701e6ffa0cae5ff1c1a19"
+          "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.2/notify-0.2.2-aarch64-unknown-linux-gnu.tar.gz",
+          "sha256": "8f0c1c79d42977463147325cb687bf1e32ccc29c2ad63427f84a4f79ce88fb90"
         },
         "universal-apple-darwin": {
-          "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.1/notify-0.2.1-universal-apple-darwin.tar.gz",
-          "sha256": "6ca8286bdc2a25b2f94f1eb638b72276d4437434f61327d80524f88d1d168bf6"
+          "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.2/notify-0.2.2-universal-apple-darwin.tar.gz",
+          "sha256": "28ae052b9504b35c8309819062e8148c4049e171e46040e582d655edf34e5539"
         },
         "x86_64-pc-windows-msvc": {
-          "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.1/notify-0.2.1-x86_64-pc-windows-msvc.zip",
-          "sha256": "e8b5fb2bacb93d667a9e2a5c4d433c9bd0e77987dfb9efd6b19ca71b055eec09"
+          "url": "https://github.com/TrunkRecorder/trunk-plugin-notify/releases/download/v0.2.2/notify-0.2.2-x86_64-pc-windows-msvc.zip",
+          "sha256": "b946f01a80e314c5324d61a1a597c082082968d50efcc0cc96ece4f6b78fc24f"
         }
       }
     },
