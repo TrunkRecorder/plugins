@@ -1,0 +1,30 @@
+{
+  "id": "trunk-plugin-zello",
+  "name": "Zello Streaming",
+  "description": "Streams live radio audio to Zello and Zello Work channels.",
+  "repository": "https://github.com/cinsu/trunk-plugin-zello",
+  "license": "MIT",
+  "tier": "community",
+  "version": "0.2.0",
+  "api": 1,
+  "tag": "v0.2.0",
+  "commit": "393f349e46f1dce7f851bd1307350c4c0f112ec8",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/cinsu/trunk-plugin-zello/releases/download/v0.2.0/trunk-plugin-zello-0.2.0-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "b05262d5207bef9b65ed25f7b13230883a549a84349b2bb229965e99c50753d1"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/cinsu/trunk-plugin-zello/releases/download/v0.2.0/trunk-plugin-zello-0.2.0-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "2b087535081539834a1f352999211472549ce436f2ba5c2c5a4f26c95d7735d2"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/cinsu/trunk-plugin-zello/releases/download/v0.2.0/trunk-plugin-zello-0.2.0-universal-apple-darwin.tar.gz",
+      "sha256": "4d75f67d061bb1ec44d6c9d4c8ab8d5ed236d59bac34c16b9e2d92ee8cb64944"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/cinsu/trunk-plugin-zello/releases/download/v0.2.0/trunk-plugin-zello-0.2.0-x86_64-pc-windows-msvc.zip",
+      "sha256": "f6061fbe4c416f855d8a28a632dfacf179f9eafd5b0a23ccfa0dace001671bbb"
+    }
+  }
+}
