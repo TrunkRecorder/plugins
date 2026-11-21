@@ -251,26 +251,26 @@
       "repository": "https://github.com/kb2ear/trunk-plugin-unit-script",
       "license": "MIT",
       "tier": "community",
-      "version": "0.1.1",
+      "version": "0.1.3",
       "api": 1,
-      "tag": "v0.1.1",
-      "commit": "4dccc5d3dbce951864d67b7011ffa57b5ed740a6",
+      "tag": "v0.1.3",
+      "commit": "c6c7937682874a21629e56d6735ec53ad1c5704a",
       "assets": {
         "x86_64-unknown-linux-gnu": {
-          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.1/unit-script-0.1.1-x86_64-unknown-linux-gnu.tar.gz",
-          "sha256": "40e88ba590eb93eb69940de87a3b00f5fc5f0ec808502be7d8c158a7a4e3e503"
+          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.3/unit-script-0.1.3-x86_64-unknown-linux-gnu.tar.gz",
+          "sha256": "ed9de6f68abca7c237879ea09666b64958589f9090798682dc6e8cbcb39ea5d5"
         },
         "aarch64-unknown-linux-gnu": {
-          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.1/unit-script-0.1.1-aarch64-unknown-linux-gnu.tar.gz",
-          "sha256": "e2d424b0961ecb1c97c9d1856066af7ca92a5ad6b7cf4464d4721428ca4be427"
+          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.3/unit-script-0.1.3-aarch64-unknown-linux-gnu.tar.gz",
+          "sha256": "19ea672a7e4d431f9beb28298dfe6e388d79ab92c00138ec93764d6b1a20e37b"
         },
         "universal-apple-darwin": {
-          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.1/unit-script-0.1.1-universal-apple-darwin.tar.gz",
-          "sha256": "3191a61ed34243f6a3079b55801abbd5fac617f64d7758d2646f12bc78ab5e7c"
+          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.3/unit-script-0.1.3-universal-apple-darwin.tar.gz",
+          "sha256": "1fe6c48964949caea722a44bf519a1c02beea1b7ea358d18b08ae1688a799893"
         },
         "x86_64-pc-windows-msvc": {
-          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.1/unit-script-0.1.1-x86_64-pc-windows-msvc.zip",
-          "sha256": "6d0cc051a8170f86b6f4f3e9d615f4071d7632f9c1d17ab28ad736d35cd13e00"
+          "url": "https://github.com/kb2ear/trunk-plugin-unit-script/releases/download/v0.1.3/unit-script-0.1.3-x86_64-pc-windows-msvc.zip",
+          "sha256": "673b67d42a816bd6bd0e75da79f8e47fed8d67f3d4dfc882e132a27e3b3e6c73"
         }
       }
     },
