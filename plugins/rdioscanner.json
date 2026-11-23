@@ -6,26 +6,26 @@
   "homepage": "https://github.com/chuot/rdio-scanner",
   "license": "GPL-3.0-or-later",
   "tier": "official",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "api": 1,
-  "tag": "v0.1.8",
-  "commit": "dadf21f6f11bec4450f7ee5bbfca38c0b4807155",
+  "tag": "v0.1.9",
+  "commit": "807e07485c7d6ac93a85139dee31374ec539b2fb",
   "assets": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.8/rdioscanner-0.1.8-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "7c1ab9cb45a6b2630b71bb5964a670fbbf0ebaa1c70c563342031cf238f26214"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.9/rdioscanner-0.1.9-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "d34f03cf62da9ae0df3e096f9de9e04b0c41212db82ffed8c16a81ecc45a6f21"
     },
     "aarch64-unknown-linux-gnu": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.8/rdioscanner-0.1.8-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "893a01196da3bd5df4be9e57f1fa5034e5a6330e1f159ca46856400116fe8d3f"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.9/rdioscanner-0.1.9-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "b1c3f4965efec84f29bc708def0176c2457150a4a382b6ffd29eab454f3fb1bd"
     },
     "universal-apple-darwin": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.8/rdioscanner-0.1.8-universal-apple-darwin.tar.gz",
-      "sha256": "94e7c8310c1d98e8aa4b2ade5db56b075571be53f492cce30fad821f6926275c"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.9/rdioscanner-0.1.9-universal-apple-darwin.tar.gz",
+      "sha256": "77d55caabf1015f6f0f9c9ca846d7338c2f9d5c74161d8624b579dd9fe696f27"
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.8/rdioscanner-0.1.8-x86_64-pc-windows-msvc.zip",
-      "sha256": "ddc8bcdc43a2bb1fd0864262e7b5f4ecdae40e6c1850e045296f8b0cf0b27c2a"
+      "url": "https://github.com/TrunkRecorder/trunk-plugin-rdioscanner/releases/download/v0.1.9/rdioscanner-0.1.9-x86_64-pc-windows-msvc.zip",
+      "sha256": "510d2e66eb9e5ce4c6b7fcaa1f8b402fed0fdedea27756a54f8ef7ac3a26fbe3"
     }
   }
 }
