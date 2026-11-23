@@ -1,0 +1,30 @@
+{
+  "id": "decode-rate-notifications",
+  "name": "Decode Rate Notifications",
+  "description": "Sends decode-rate alerts through Pushover, webhooks, or email",
+  "repository": "https://github.com/penguinzephyr/trunk-plugin-decode-rate-alerts",
+  "license": "MIT",
+  "tier": "community",
+  "version": "0.1.0",
+  "api": 1,
+  "tag": "v0.1.0",
+  "commit": "bef9c1c452b1f15afa047f88c9c054c839791965",
+  "assets": {
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/penguinzephyr/trunk-plugin-decode-rate-alerts/releases/download/v0.1.0/decode-rate-notifications-0.1.0-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "ba12fb586988f60b7eba64fa0794fb5d11be26af07b9b60f6227f44fd3eac822"
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/penguinzephyr/trunk-plugin-decode-rate-alerts/releases/download/v0.1.0/decode-rate-notifications-0.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "5087fff65af1fd28312de8cae557baa264eacdb1ced821153d1fd66819cee0ca"
+    },
+    "universal-apple-darwin": {
+      "url": "https://github.com/penguinzephyr/trunk-plugin-decode-rate-alerts/releases/download/v0.1.0/decode-rate-notifications-0.1.0-universal-apple-darwin.tar.gz",
+      "sha256": "8621519ec995ac99067355a86c0f5dee79c9513f473ddbd118ae99e6e2b0d274"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/penguinzephyr/trunk-plugin-decode-rate-alerts/releases/download/v0.1.0/decode-rate-notifications-0.1.0-x86_64-pc-windows-msvc.zip",
+      "sha256": "7120fb45af9e98a58bdb65d084217f2d40836eb5756f677b5dbb65e18448684a"
+    }
+  }
+}
