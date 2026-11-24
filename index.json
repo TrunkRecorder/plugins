@@ -99,26 +99,26 @@
       "repository": "https://github.com/connorjfarrell/trunk-plugin-mcp",
       "license": "MIT",
       "tier": "community",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "api": 1,
-      "tag": "v0.1.0",
-      "commit": "0326bf6e15fc2c3628cd28c06da8cc621b201e76",
+      "tag": "v0.2.0",
+      "commit": "a55a5183e84fdea6b050a0bc0b27f485f85944e2",
       "assets": {
         "x86_64-unknown-linux-gnu": {
-          "url": "https://github.com/connorjfarrell/trunk-plugin-mcp/releases/download/v0.1.0/mcp-0.1.0-x86_64-unknown-linux-gnu.tar.gz",
-          "sha256": "736e9da1ddcb604c31acddf1fb789edb3985c5d1166b984d4eeade19764d78fe"
+          "url": "https://github.com/connorjfarrell/trunk-plugin-mcp/releases/download/v0.2.0/mcp-0.2.0-x86_64-unknown-linux-gnu.tar.gz",
+          "sha256": "646b8875105515d7e69082ef875f90b1ce14d3d06514cb29b49496e1b5392ffc"
         },
         "aarch64-unknown-linux-gnu": {
-          "url": "https://github.com/connorjfarrell/trunk-plugin-mcp/releases/download/v0.1.0/mcp-0.1.0-aarch64-unknown-linux-gnu.tar.gz",
-          "sha256": "58de86bc7714c97252739859098c19853cdd5068650adbb3662d96a7c5e06965"
+          "url": "https://github.com/connorjfarrell/trunk-plugin-mcp/releases/download/v0.2.0/mcp-0.2.0-aarch64-unknown-linux-gnu.tar.gz",
+          "sha256": "e12274009a1d1ad25619ad50a9dcc744247722821aec9b40628aa7fc85eab784"
         },
         "universal-apple-darwin": {
-          "url": "https://github.com/connorjfarrell/trunk-plugin-mcp/releases/download/v0.1.0/mcp-0.1.0-universal-apple-darwin.tar.gz",
-          "sha256": "cf8a4e27cbb447dc2cf90d3dfe1e71e9da773d13bae072402e1855cdb729ef19"
+          "url": "https://github.com/connorjfarrell/trunk-plugin-mcp/releases/download/v0.2.0/mcp-0.2.0-universal-apple-darwin.tar.gz",
+          "sha256": "e76f52c41a5324bfbb318cda7a04e1ba2489a1c2fe72a2a92b76073f4acae515"
         },
         "x86_64-pc-windows-msvc": {
-          "url": "https://github.com/connorjfarrell/trunk-plugin-mcp/releases/download/v0.1.0/mcp-0.1.0-x86_64-pc-windows-msvc.zip",
-          "sha256": "780bda5cc7c79285dc8907f7a39731d2062d4d8358758887238f94a2fcedcaf5"
+          "url": "https://github.com/connorjfarrell/trunk-plugin-mcp/releases/download/v0.2.0/mcp-0.2.0-x86_64-pc-windows-msvc.zip",
+          "sha256": "f06fc8621e4bb08fb9dea7d50f838e3f846172a5bf13574d45d631fc658f2ec0"
         }
       }
     },
