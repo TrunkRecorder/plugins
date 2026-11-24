@@ -17,14 +17,15 @@ users get is what was reviewed.
 | [Notifications](https://github.com/TrunkRecorder/trunk-plugin-notify) | official | Sends a notification when it hears a signal or tone, an emergency, or a new talkgroup or radio: to Discord, Slack, ntfy, a webhook or a command |
 
 To write a plugin, start from the
-[plugin template](https://github.com/TrunkRecorder/trunk-plugin-template).
+[plugin template](https://github.com/TrunkRecorder/trunk-plugin-template), and read
+[Writing plugins](https://github.com/TrunkRecorder/trunk-recorder-pro/blob/main/docs/plugins/writing-plugins.md).
 
 ## Listing your plugin
 
 1. Release it with the template's release workflow. That workflow names the
    files, writes `SHA256SUMS` and attests each file's build provenance, and
    the registry needs all three. See
-   [Releasing](https://github.com/TrunkRecorder/trunk-plugin-template/blob/main/docs/releasing.md).
+   [Releasing](https://github.com/TrunkRecorder/trunk-recorder-pro/blob/main/docs/plugins/writing-plugins.md#releasing).
 2. Fork this repository and add your entry:
 
    ```sh
