@@ -5,26 +5,26 @@
   "repository": "https://github.com/jschmall/icecast-endpoint",
   "license": "MIT",
   "tier": "community",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "api": 1,
-  "tag": "v0.5.3",
-  "commit": "e2fa5b61690e005d3a6c359c2fbe8156151f1fbb",
+  "tag": "v0.5.4",
+  "commit": "3a628d431b0b0e667b082d0f5d05f39af7bf2b22",
   "assets": {
     "x86_64-unknown-linux-gnu": {
-      "url": "https://github.com/jschmall/icecast-endpoint/releases/download/v0.5.3/icecast-endpoint-0.5.3-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "d19b6b7e8f886d88b471bb194e103ed24587106e94ee5ba0e59ec9d581d74fc4"
+      "url": "https://github.com/jschmall/icecast-endpoint/releases/download/v0.5.4/icecast-endpoint-0.5.4-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "2ffffe9bfcb5efda43b7fa4824b8d6c8662e71377e03e670c7aa96b1c0b72d62"
     },
     "aarch64-unknown-linux-gnu": {
-      "url": "https://github.com/jschmall/icecast-endpoint/releases/download/v0.5.3/icecast-endpoint-0.5.3-aarch64-unknown-linux-gnu.tar.gz",
-      "sha256": "6201d0567bcd7fbb4d02d16fa4ba1effae2af59c28f5ab491bbde362bb89458e"
+      "url": "https://github.com/jschmall/icecast-endpoint/releases/download/v0.5.4/icecast-endpoint-0.5.4-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "f2b1bb6a6761d9a16b784600afa938404b853bffc797cd5b3390215b75337dfa"
     },
     "universal-apple-darwin": {
-      "url": "https://github.com/jschmall/icecast-endpoint/releases/download/v0.5.3/icecast-endpoint-0.5.3-universal-apple-darwin.tar.gz",
-      "sha256": "a541069576e7adab128676f8a28015a4c48d4f6f7b80d14d9f00f45212036c7b"
+      "url": "https://github.com/jschmall/icecast-endpoint/releases/download/v0.5.4/icecast-endpoint-0.5.4-universal-apple-darwin.tar.gz",
+      "sha256": "fb1e8a94e6773bbdc908c5063ce4d3f1a1921aa0e38ec5c22afeb814482776a0"
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://github.com/jschmall/icecast-endpoint/releases/download/v0.5.3/icecast-endpoint-0.5.3-x86_64-pc-windows-msvc.zip",
-      "sha256": "ecee55b4f31706bb0b531b00dd4fceee74da4e781163969c38541a349ac9c1ef"
+      "url": "https://github.com/jschmall/icecast-endpoint/releases/download/v0.5.4/icecast-endpoint-0.5.4-x86_64-pc-windows-msvc.zip",
+      "sha256": "82602b23fc999d27937a5f8a9fe94fbd147f22fbdd58fe9997c28fa6136dfcf8"
     }
   }
 }
