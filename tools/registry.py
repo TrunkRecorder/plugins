@@ -45,8 +45,19 @@ REQUIRED_TARGET = "x86_64-unknown-linux-gnu"
 TIERS = {"official", "community"}
 # Only plugins in this GitHub organization can be official.
 OFFICIAL_OWNER = "TrunkRecorder"
-# The SDK's topics (trunk-recorder-plugin protocol::topic).
-TOPICS = {"call.start", "call.end", "call.update", "call.concluded", "unit", "audio", "voice", "status", "totals", "tone_pattern", "log"}
+# The SDK's topics (trunk-recorder-plugin protocol::topic::ALL), its signal taps (`tap.<id>`,
+# TAPS) and products of one kind (`product.<kind>`: a kind is any name).
+TOPICS = {"call.start", "call.end", "call.update", "call.concluded", "unit", "audio", "voice", "status", "totals", "tone_pattern", "log", "product"}
+TAPS = {"fm.discriminator", "am.envelope", "voice.air", "voice.frames", "voice.errors"}
+PRODUCT_KIND_RE = re.compile(r"[a-z0-9_]+")
+
+
+def known_topic(t):
+    if t.startswith("tap."):
+        return t[4:] in TAPS
+    if t.startswith("product."):
+        return PRODUCT_KIND_RE.fullmatch(t[8:]) is not None
+    return t in TOPICS
 FORMATS = {"m4a"}
 
 # An entry's fields, in the order they're written. homepage is optional.
@@ -218,7 +229,7 @@ def check_manifest(m, entry):
     if not m.get("subscribe"):
         p.append("--describe: subscribes to nothing")
     for t in m.get("subscribe", []):
-        if t not in TOPICS:
+        if not known_topic(t):
             p.append(f"--describe: unknown topic {t!r}")
     for f in m.get("audio_formats", []):
         if f not in FORMATS:
