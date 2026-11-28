@@ -15,6 +15,8 @@ users get is what was reviewed.
 | [Upload script](https://github.com/TrunkRecorder/trunk-plugin-upload-script) | official | Runs a script of yours on each recorded call, as Trunk Recorder's uploadScript does |
 | [MQTT](https://github.com/TrunkRecorder/trunk-plugin-mqtt) | official | Publishes calls, unit activity and system status to an MQTT broker, in the format of Trunk Recorder's MQTT Status plugin |
 | [Notifications](https://github.com/TrunkRecorder/trunk-plugin-notify) | official | Sends a notification when it hears a signal or tone, an emergency, or a new talkgroup or radio: to Discord, Slack, ntfy, a webhook or a command |
+| [Pager](https://github.com/TrunkRecorder/trunk-plugin-pager) | official | Decodes POCSAG and FLEX pages from paging channels and keeps them with their calls |
+| [ACARS](https://github.com/TrunkRecorder/trunk-plugin-acars) | official | Decodes ACARS messages from airband channels and keeps them with their calls |
 
 To write a plugin, start from the
 [plugin template](https://github.com/TrunkRecorder/trunk-plugin-template), and read

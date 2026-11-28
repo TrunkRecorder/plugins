@@ -91,6 +91,12 @@ class Manifest(unittest.TestCase):
         self.assertTrue(registry.check_manifest(self.manifest(subscribe=[]), entry()))
         self.assertTrue(registry.check_manifest(self.manifest(subscribe=["calls"]), entry()))
 
+    def test_taps_and_products(self):
+        for t in ["tap.fm.discriminator", "tap.am.envelope", "product", "product.page", "product.my_kind"]:
+            self.assertEqual(registry.check_manifest(self.manifest(subscribe=[t]), entry()), [], t)
+        for t in ["tap.nothing", "tap.", "product.", "product.Page"]:
+            self.assertTrue(registry.check_manifest(self.manifest(subscribe=[t]), entry()), t)
+
 
 class Sums(unittest.TestCase):
     def test_parse(self):
